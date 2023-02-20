@@ -1,3 +1,6 @@
+Original repository.   
+https://github.com/uber-go/automaxprocs   
+
 # automaxprocs [![GoDoc][doc-img]][doc] [![Build Status][ci-img]][ci] [![Coverage Status][cov-img]][cov]
 
 Automatically set `GOMAXPROCS` to match Linux container CPU quota.
